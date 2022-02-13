@@ -8,7 +8,6 @@
 <img src="images/MCDA.jpg?raw=true"/>
 ---
 [Post Burn Analysis](/sample_page)
-<img src="images/Burn_SWIR.jpg?raw=true"/>
 <img src="images/DNBR.png?raw=true"/>
 ---
 [Crime Density Analysis](http://example.com/)
@@ -20,7 +19,7 @@
 
 [Repurposed Energy](https://storymaps.arcgis.com/stories/0f221c939d0249e18fe804570fcea1c0/)
 
-[NVDI - North Carolina Vegetation (Time Series)](/sample_page)
+[NVDI - North Carolina Vegetation (Time Series)]
 <img src="images/NC_VegetationOvertime?raw=true"/>
 ---
 
