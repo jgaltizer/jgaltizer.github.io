@@ -20,7 +20,7 @@
 
 [Repurposed Energy](https://storymaps.arcgis.com/stories/0f221c939d0249e18fe804570fcea1c0/)
 
-[NVDI - North Carolina Vegetation (Time Series)]
+NVDI - North Carolina Vegetation (Time Series)
 <img src="images/NC_VegetationOvertime.gif?raw=true"/>
 ---
 
