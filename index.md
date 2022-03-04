@@ -3,13 +3,13 @@
 
 ### Academic Products
 
-[Muli Decision Criteria Analysis](/sample_page)
+Muli Decision Criteria Analysis
 <img src="images/MCDA.jpg?raw=true"/>
 
-[Post Burn Analysis](/sample_page)
+Post Burn Analysis
 <img src="images/DNBR.png?raw=true"/>
 
-[Crime Density Analysis](http://example.com/)
+Crime Density Analysis
 <img src="images/Cluster.jpg?raw=true"/>
 <img src="images/Hotspot.jpg?raw=true"/>
 
