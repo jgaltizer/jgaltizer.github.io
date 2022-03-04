@@ -14,7 +14,7 @@
 <img src="images/Hotspot.jpg?raw=true"/>
 
 [GIS Online](https://arcg.is/ia1nC0)
-<img src="images/WorldElv.jpg?raw=true"/>
+<img src="images/WorldElv.JPG?raw=true"/>
                                      
 ### Personal Projects
 
