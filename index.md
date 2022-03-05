@@ -6,12 +6,12 @@
 Muli Decision Criteria Analysis
 <img src="images/MCDA.jpg?raw=true"/>
 
-Post Burn Analysis
-<img src="images/DNBR.png?raw=true"/>
-
 Crime Density Analysis
 <img src="images/Cluster.jpg?raw=true"/>
 <img src="images/Hotspot.jpg?raw=true"/>
+
+[Investigating Wildfire with Google Earth Engine](https://grantaltizer.users.earthengine.app/view/investigating-wildfire-pre-and-post-burn-comparison)
+---
 
 [GIS Online](https://arcg.is/ia1nC0)
 <img src="images/WorldElv.JPG?raw=true"/>
