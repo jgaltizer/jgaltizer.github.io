@@ -11,7 +11,7 @@ Crime Density Analysis
 <img src="images/Hotspot.jpg?raw=true"/>
 
 [Investigating Wildfire with Google Earth Engine](https://grantaltizer.users.earthengine.app/view/investigating-wildfire-pre-and-post-burn-comparison)
-<img src-"images/fire.JPG?raw=true"/>
+<img src="images/fire.JPG?raw=true"/>
 ---
 
 [GIS Online](https://arcg.is/ia1nC0)
